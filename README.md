@@ -1,9 +1,10 @@
 <p align="center">
-  <img width ="40%"  src="https://user-images.githubusercontent.com/83531350/151652937-193f44de-e2a3-4a06-b05c-a8667f3ae74c.jpg" >
+  <img width ="50%" src="https://user-images.githubusercontent.com/83531350/151655241-e335e0b9-645f-490e-879e-d2e044a6cabb.jpg">
 </p>
 
+
 <h2 align="center">
-    Hey there! :wave: thanks for visiting my profile.
+    Hey there!:wave: thanks for visiting my profile.</p>
 </h2>
 <h3 align="center">
     I'm a Computer Science enthusiast from India, currently exploring various domains and technologies.
