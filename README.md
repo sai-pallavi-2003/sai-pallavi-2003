@@ -1,4 +1,5 @@
-Sophomore, Computer Science Undergrad @ G Narayanamma Institute Of Technology And Science, Hyderabad.
-
+<p align="center" width="100%">
+    <img width="33%" src="githubprofile.jpg">
+</p>
 
 
