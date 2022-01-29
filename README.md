@@ -17,7 +17,7 @@
 
 :seedling: I'm currently learning **Data Structures and Algorithms & Machine Learning**
 
-:e-mail: You can drop a mail at **sistlasaipallavi2003@gmail.com**
+:e-mail:  Drop a mail at **sistlasaipallavi2003@gmail.com**
 
 <br>
 
