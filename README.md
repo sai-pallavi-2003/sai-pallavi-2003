@@ -7,7 +7,7 @@
     Hey there!:wave: thanks for visiting my profile.</p>
 </h2>
 <h3 align="center">
-    I'm a Computer Science enthusiast from India, currently exploring various domains and technologies.
+    I am Sai Pallavi, a Computer Science enthusiast from India, currently exploring various domains and technologies.
 </h3>
 <br>
 
