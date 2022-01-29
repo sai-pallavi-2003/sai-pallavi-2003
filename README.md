@@ -13,7 +13,7 @@
 
 <h2 align ="left"> :raising_hand_woman:A bit about me :</h2>
 
-:books: I'm a sophomore from **G Naryanamma Institute of Technology and science**.  
+:books: I'm a sophomore from **G Narayanamma Institute of Technology and science**.  
 
 :seedling: I'm currently learning **Data Structures and Algorithms & Machine Learning**
 
