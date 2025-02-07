@@ -5,7 +5,7 @@ I'm **Sai Pallavi**, a recent **Computer Science graduate**, currently working a
 
 🔹 Exploring DevOps, infrastructure automation, and AI-driven solutions.  
 🔹 Enthusiastic about building scalable and efficient cloud-based applications.  
-🔹 Always learning and experimenting with new technologies!  
+🔹 Passionate about Computer Science fundamentals, problem-solving. 
 
 Check out my projects and feel free to connect! 🚀  
 
