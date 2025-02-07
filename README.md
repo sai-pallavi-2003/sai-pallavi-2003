@@ -1,7 +1,7 @@
 
 ### Hi there! 👋  
 
-I'm **[Your Name]**, a recent **Computer Science graduate**, currently working as a **Service Engineer at [Company Name]**. I have a strong passion for **Cloud Computing, AI/ML, Automation, and the Azure tech stack**.  
+I'm **Sai Pallavi**, a recent **Computer Science graduate**, currently working as a **Service Engineer at Providence India**. 
 
 🔹 Exploring DevOps, infrastructure automation, and AI-driven solutions.  
 🔹 Enthusiastic about building scalable and efficient cloud-based applications.  
