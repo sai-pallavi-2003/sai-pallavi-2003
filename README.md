@@ -1,23 +1,18 @@
-<p align="center">
-  <img width ="50%" src="https://user-images.githubusercontent.com/83531350/151655241-e335e0b9-645f-490e-879e-d2e044a6cabb.jpg">
-</p>
 
+### Hi there! 👋  
 
-<h2 align="center">
-    Hey there!:wave: thanks for visiting my profile.</p>
-</h2>
-<h3 align="center">
-    I am Sai Pallavi, a Computer Science enthusiast from India, currently exploring various domains and technologies.
-</h3>
-<br>
+I'm **[Your Name]**, a recent **Computer Science graduate**, currently working as a **Service Engineer at [Company Name]**. I have a strong passion for **Cloud Computing, AI/ML, Automation, and the Azure tech stack**.  
 
-<h2 align ="left"> :raising_hand_woman:A bit about me :</h2>
+🔹 Exploring DevOps, infrastructure automation, and AI-driven solutions.  
+🔹 Enthusiastic about building scalable and efficient cloud-based applications.  
+🔹 Always learning and experimenting with new technologies!  
 
-:books: I'm a sophomore from **G Narayanamma Institute of Technology and science**.  
-
-:seedling: I'm currently learning **Data Structures and Algorithms & Machine Learning**
+Check out my projects and feel free to connect! 🚀  
 
 :e-mail:  Drop a mail at **sistlasaipallavi2003@gmail.com**
+
+
+
 
 
 
